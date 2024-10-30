@@ -1,0 +1,14 @@
+{
+	"name": "ideabox/click-to-tweet",
+	"title": "Click To Tweet",
+	"category": "widgets",
+	"icon": "twitter",
+	"description": "Add a quote for visitors to tweet via Twitter.",
+	"textdomain": "ib-click-to-tweet",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
